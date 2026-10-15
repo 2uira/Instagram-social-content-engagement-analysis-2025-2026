@@ -1,6 +1,6 @@
-# Instagram Content Engagement Analysis (Jan 2025 – Sep 2026)
+# Instagram Content Engagement Analysis (Jan 2025 - Sep 2026)
 
-A follow-up to my [2022–2025 Instagram & Meta Ads analysis](https://github.com/2uira/instagram-meta-ads-performance-analysis). I helped Business Wisdom Institute (BWI) set up a new post-level tracking sheet, then cleaned and analysed **390 Instagram posts across 21 months**, this time doing the cleaning and analysis in **SQL (DuckDB)**.
+A follow-up to my [2022-2025 Instagram & Meta Ads analysis](https://github.com/2uira/instagram-meta-ads-performance-analysis). I helped Business Wisdom Institute (BWI) set up a new post-level tracking sheet, then cleaned and analysed **390 Instagram posts across 21 months**, this time doing the cleaning and analysis in **SQL (DuckDB)**.
 
 **Questions**
 1. Which formats, content types and posting days earn the most engagement?
@@ -12,7 +12,7 @@ A follow-up to my [2022–2025 Instagram & Meta Ads analysis](https://github.com
 ## Key findings
 
 - **Video drives over 3× the engagement of carousels.** Across 189 posts each, Reels averaged 63 engagements and 1,699 reach, against 19 and 491 for carousels.
-- **Educational content is the strongest category with a meaningful sample** (avg 61 engagements over 65 posts). Promotional posts reach the most people (avg 1,808) but their engagement doesn't keep pace, the same pattern found in 2022–2025.
+- **Educational content is the strongest category with a meaningful sample** (avg 61 engagements over 65 posts). Promotional posts reach the most people (avg 1,808) but their engagement doesn't keep pace, the same pattern found in 2022-2025.
 - **Documentation is overused.** It is the second most-posted category (146 posts) but averages only 27 engagements.
 - **The best days for reach are the worst days for engagement.** Tuesday and Friday reach the most people (1,425 avg) yet have the lowest engagement; Sunday (56) and Wednesday (50) lead on engagement.
 - **Engagement is event-driven, not cumulative.** It spikes around seminars and campaigns (May 2025: 133 avg; Mar 2026: 89) and drops back the following month. Almost every top post features a named collaborator.
